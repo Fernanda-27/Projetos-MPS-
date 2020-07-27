@@ -1,0 +1,23 @@
+ body{
+   text-align: center;
+    background: rgb(8, 216, 243);
+ }
+ #h1{
+      text-align: center;
+      font-style: italic;
+      border: yellow solid 5px ;
+      padding-top: 4px;
+      margin: 1px;
+      
+  }
+  h2{
+   background-color: yellow;
+   padding: 5px;
+   border: black solid 5px;
+   
+  }
+  p{
+      font-size: x-large;
+      font-style: inherit;
+  }
+  

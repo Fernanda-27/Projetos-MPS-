@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    
+}
+.c1{
+    font-size: 40px;
+    font-style: oblique;
+    text-align: center;
+    background-color: beige;
+    color: black;
+   
+    
+    border : 5px black solid;
+}
+.c2{
+    background-color: rgb(235, 205, 165);
+    text-decoration: underline;
+    text-align: justify ;
+    padding : 5px; 
+    border-top: 2px rgb(22, 15, 15) solid;
+    border-bottom: 2px rgb(0, 0, 0) solid;
+    border-left: 5px palevioletred solid;
+    border-right: 5px palevioletred solid ;
+    color: black;
+}
+.p1{
+    text-align: justify;
+}
+.img1{
+    text-align: center;
+}
